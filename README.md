@@ -18,7 +18,7 @@ O repositório é composto por duas versões complementares da ferramenta:
 * **Persistência de Histórico:** Cria e alimenta automaticamente um arquivo `historico_sustentabilidade.txt` para auditorias e registros futuros.
 * **Plano de Metas Dinâmico:** Gera sugestões quantitativas de economia de $CO_2$ com base no nível de consumo inserido.
 
-### 🌐 Aplicação Web (HTML/JS)
+### 🌐 Aplicação Web (HTML)
 * **Design Responsivo:** Interface limpa e adaptável para dispositivos móveis e desktops baseada na identidade visual ESG.
 
 ---
