@@ -4,7 +4,7 @@ O **Eco Metric** é um ecossistema focado em sustentabilidade e práticas ESG (*
 
 O repositório é composto por duas versões complementares da ferramenta:
 1. **Versão CLI (C):** Uma aplicação robusta de terminal focada em análise detalhada, com persistência de dados em arquivo texto e métrica adicional de consumo hídrico.
-2. **Versão Web (HTML/CSS/JS):** Uma interface gráfica moderna, intuitiva e responsiva para cálculos rápidos e geração visual de relatórios ambientais.
+2. **Versão Web (HTML):** Uma interface gráfica moderna, intuitiva e responsiva para cálculos rápidos e geração visual de relatórios ambientais.
 
 ---
 
