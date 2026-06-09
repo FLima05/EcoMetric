@@ -1,3 +1,5 @@
+OBS: O codigo possui duas versões uma com terminal interativo em C, e uma versão web em html mostrando como seria o site.
+
 # 🌱 Eco Metric - Calculadora de Pegada de Carbono
 
 O **Eco Metric** é um ecossistema focado em sustentabilidade e práticas ESG (*Environmental, Social, and Governance*), projetado para ajudar empresas e indivíduos a monitorar, calcular e reduzir sua pegada de carbono mensal. 
