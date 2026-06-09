@@ -48,7 +48,7 @@ Os cálculos utilizam coeficientes de conversão para transformar consumo em imp
 ### 1. Versão Web (HTML)
 Não requer instalação de dependências ou servidores.
 1. Navegue até a pasta do projeto.
-2. Abra o arquivo `.html` (ex: `index.html`) diretamente em qualquer navegador moderno (Chrome, Edge, Firefox, Safari).
+2. Abra o arquivo pelo live server`.html` (ex: `index.html`) diretamente em qualquer navegador moderno (Chrome, Edge, Firefox, Safari).
 
 ### 2. Versão CLI (C)
 Requer um compilador C (como o `gcc`) instalado no sistema.
